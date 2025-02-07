@@ -46,6 +46,15 @@ The Land Registry DApp is a blockchain-based decentralized application designed 
 
 
 
+
+# SCREENSHOTS
+
+
+![Screenshot 2025-02-07 003612](https://github.com/user-attachments/assets/3a7a56ce-eb5c-43c9-8865-8b0110d00c79)
+
+
+
+
 Regards,
 
 Sarvesh Pingale
