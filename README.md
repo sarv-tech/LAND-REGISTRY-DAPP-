@@ -1,5 +1,7 @@
 # LAND-REGISTRY-DAPP-
-🔗 Land Registry DApp    
+
+🔗 Land Registry DApp 
+
 The Land Registry DApp is a blockchain-based decentralized application designed to provide a secure, transparent, and tamper-proof solution for land ownership management. Built using Solidity, Ethereum, HTML, CSS, and JavaScript, this project eliminates the risks of fraud, corruption, and inefficiency in traditional land registry systems.
 
 ✅ Smart Contract-Based Ownership: Stores and verifies land records on the Ethereum blockchain.
