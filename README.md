@@ -7,6 +7,7 @@ The Land Registry DApp is a blockchain-based decentralized application designed 
 
 🔹 Key Features :
 
+
 ✅ Smart Contract-Based      Ownership: Stores and verifies land records on the Ethereum blockchain.
 
 ✅ Decentralized & Secure:   Eliminates centralized control, preventing fraud and unauthorized modifications.
@@ -33,6 +34,7 @@ The Land Registry DApp is a blockchain-based decentralized application designed 
 
 🔹 How It Works :
 
+
 1️⃣ User Registration – Users register and authenticate through a secure login process.
 
 2️⃣ Property Registration – New land records are added to the blockchain with verified details.
@@ -47,6 +49,7 @@ The Land Registry DApp is a blockchain-based decentralized application designed 
 Regards,
 
 Sarvesh Pingale
+
 
 
 
