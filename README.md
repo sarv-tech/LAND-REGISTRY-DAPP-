@@ -40,3 +40,11 @@ The Land Registry DApp is a blockchain-based decentralized application designed 
 3️⃣ Ownership Transfer – Smart contracts execute secure ownership transfers upon validation.
 
 
+
+
+Regards,
+Sarvesh Pingale
+
+linkeldn : https://www.linkedin.com/in/sarvesh-pingale-8b9090299
+
+
